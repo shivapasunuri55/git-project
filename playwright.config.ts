@@ -20,6 +20,13 @@
  *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
  *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
  *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
+ *test directories, timeouts, retries, and reporting. Allows customizing global test behavior and browser configurations for different projects or environments.
  */
 
 import { defineConfig, devices } from '@playwright/test';
